@@ -1,5 +1,4 @@
 
-
 1) letzten Stand vom Master holen: pull from master -> local repo
 2) create new branch: git checkout -b 
 3) working on you feature
@@ -14,8 +13,6 @@
 12) review with peers
 13) changes approve
 14) merge your commit in main
-
-
 
 
 
