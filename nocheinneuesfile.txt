@@ -1,1 +1,21 @@
-asdfasöjdlf aösdlkfj aö
+
+
+1) letzten Stand vom Master holen: pull from master -> local repo
+2) create new branch: git checkout -b 
+3) working on you feature
+4) bunch of commmits (local)
+5) squash all of your local commits (zusammenfassen aller Änderungen)
+6) stash (alle Änderungen auf die Seite legen)
+7) rebase your changes against master / letzte Änderungen vom Master berücksichtigen
+	latest changes from master to you local machine
+8) resolve conflicts
+10) push to remote
+11) raise pull request
+12) review with peers
+13) changes approve
+14) merge your commit in main
+
+
+
+
+
